@@ -6,7 +6,7 @@ class Person:
         self.Planet = Planet
         self.species = species
 
-zic = Person("zic_808","Cybertron", "Saiyan")
+zic = Person("zic_808","Vegeta", "Saiyan")
 print (zic.name)
 print (zic.Planet)
 print(zic.species)
